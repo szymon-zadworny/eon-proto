@@ -7,3 +7,4 @@
   - [The solution](intro/solution.md)
 
 - [Design principles](design/design.md)
+- [Layer overview](layers/overview.md)
